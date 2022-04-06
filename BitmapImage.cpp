@@ -20,6 +20,14 @@ BitmapImage::~BitmapImage() {
 }
 
 bool BitmapImage::save() {
+    bool res = false;
+
+    if (res)
+
+        return true;
+}
+
+bool BitmapImage::resize(int width, int height) {
     return false;
 }
 

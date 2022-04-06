@@ -13,6 +13,8 @@ public:
 
     bool save();
 
+    bool resize();
+
 private:
     int width, height;
     int *buffer;
